@@ -1,7 +1,11 @@
 # SnomBot
-누알못의 거짓부렁으로부터 <b>진실을 알려주는 디코 봇</b>입니다. <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)<br/>
+<br/>
+누니머기가 엉덩이라고 주장하는 누알못의 잘못된 거짓부렁으로부터 <b>엉덩이가 아니라는 진실을 알려주는 디코 봇</b>입니다. <br/>
 ![cute_snom](https://github.com/kongsanggun/SnomBot/blob/main/screenshotimg/Snom.jpeg)<br/>
 > 누니머기가 뭔가요??? : [바로가기](https://www.pokemon.com/us/pokedex/snom)
+> <br/> 포켓몬스터라는 게임에 등장하는 포켓몬입니다. 귀엽죠?
 <br/>
 
 ## 역사
